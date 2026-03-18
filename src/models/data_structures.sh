@@ -1,0 +1,4 @@
+declare -A user=(
+  [name]='John Doe'
+  [email]='john@example.com'
+)
